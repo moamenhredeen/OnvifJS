@@ -4,6 +4,7 @@ ist eine implementierung der Onvif-Protokol in typescript
 ## Plan 
 - [Onvif Profile-S](https://www.onvif.org/profiles/profile-s/) anschauen 
 - [bestehene Onvif Bibliothek](https://github.com/agsh/onvif/)  analysieren 
+- use logging library
 
 ## library to use 
 - [Xstream for Nodejs](https://github.com/staltz/xstream)
